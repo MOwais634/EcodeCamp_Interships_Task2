@@ -1,4 +1,4 @@
-package com.codewithandrea.open_weather_example_flutter
+package com.new.weather.app.owais
 
 import io.flutter.embedding.android.FlutterActivity
 

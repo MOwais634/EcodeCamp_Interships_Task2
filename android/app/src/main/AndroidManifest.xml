@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.codewithandrea.open_weather_example_flutter">
+    package="com.new.weather.app.owais">
    <application
         android:label="open_weather_example_flutter"
         android:name="${applicationName}"
